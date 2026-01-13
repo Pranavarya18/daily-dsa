@@ -6,7 +6,7 @@ This repository contains my daily Data Structures & Algorithms practice.
 I solve problems regularly to improve problem-solving skills and consistency.
 
 ## Language
-- C++
+- C++/python 
 
 ## Goal
 - Strong DSA fundamentals
