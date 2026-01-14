@@ -13,4 +13,9 @@ I solve problems regularly to improve problem-solving skills and consistency.
 - Interview preparation
 - Daily consistency
 - Started this repository to build daily consistency in problem solving.
+## my Learning Approach
+- Focus on understanding problem patterns
+- Write clean and readable code
+- Improve solutions over time
+
 
